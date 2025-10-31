@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tldraw/tldraw": "^4.1.2",
+    "@tldraw/tldraw": "^1.29.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
